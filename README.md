@@ -1,6 +1,4 @@
-# JavaScript Mastery: Folder 4
-
-Welcome to the documentation for Folder 4! This directory contains a collection of JavaScript files designed to demonstrate core concepts of the language, from Object-Oriented Programming (OOP) to asynchronous operations and modern syntax.
+This directory contains a collection of JavaScript files designed to demonstrate core concepts of the language, from Object-Oriented Programming (OOP) to asynchronous operations and modern syntax.
 
 ## Project Structure
 
